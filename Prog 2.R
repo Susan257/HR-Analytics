@@ -103,6 +103,7 @@ mtcars$mpg[1] #1 in vectors print 1st position value in the vector
 mtcars$mpg[3] #3 in vectors print 3rd position value in the vector
 
 
+
 # R Environment functions:
 # ls()- returns all the variables present in the rscript.
 # rm()- removes all the variables present in the rscript.
